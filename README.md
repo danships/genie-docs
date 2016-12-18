@@ -5,6 +5,8 @@ This repository is a collection of documentation for all Genie related products.
 different codebases are still being written, this documentation will now only
 contain the combined roadmap.
 
+For regular updates on the development process [follow us on Twitter](https://www.twitter.com/matueranet).
+
 # Genie related repositories
 
 ## genie-ai
