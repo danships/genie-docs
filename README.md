@@ -15,6 +15,8 @@ An npm module that allows someone to easily create an application that listens f
 and responds via speech to text (tts). Features offline hotword/wake word detection and supports
 multiple tts engines, both offline and online.
 
+**Development on this project has gotten a lower priority, it has turned out to be very difficult to develop a reliable and fast voice recognition service, focus is now more on genie-router. Once that project is stable, voice will get more priority.**
+
 [repository](https://github.com/matueranet/genie-ai)
 
 ## genie-point
